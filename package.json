@@ -1,0 +1,26 @@
+{
+  "name": "node-ssi-parser",
+  "description": "SSI parser for node.js",
+  "version": "0.0.1",
+  "author": "Jasal Vadgama - http://blacklabelcreative.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/donofkarma/node-ssi-parser.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/donofkarma/node-ssi-parser/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "ssi-parser.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+  ]
+}
