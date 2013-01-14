@@ -1,0 +1,17 @@
+<!--#set var="pageName" value="" -->
+<!--#include virtual="includes/static/document_head.shtml" -->
+
+	<div id="pageWrapper">
+		<header id="header">
+			<h1>Node SSI Parser</h1>
+		</header>
+
+		<section id="mainContent">
+			<p>Trying to to implement an SSI parser for node.js. Will be starting out with some basic stuff (#include, #set, #echo etc.) and then extend to flow control.</p>
+		</section>
+
+		<footer id="footer"></footer>
+	</div><!-- #pageWrapper -->
+
+<!--#include virtual="includes/static/document_script.shtml" -->
+<!--#include virtual="includes/static/document_foot.shtml" -->
