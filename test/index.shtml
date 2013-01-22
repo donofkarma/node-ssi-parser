@@ -1,4 +1,4 @@
-<!--#set var="pageName" value="" -->
+<!--#set var="pageName" value="test page -" -->
 <!--#include virtual="includes/static/document_head.shtml" -->
 
 	<div id="pageWrapper">

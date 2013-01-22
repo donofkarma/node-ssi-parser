@@ -1,4 +1,4 @@
-<!--#set var="SITE_PATH" value="" -->
+<!--#set var="SITE_PATH" value="/" -->
 
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html lang="en-gb" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -9,9 +9,7 @@
 	<meta charset="utf-8" />
 
 	<title>
-		<!--#if expr="${pageName} != ''" -->
-			<!--#echo var="pageName"--> -
-		<!--#endif -->
+		<!--#echo var="pageName"-->
 		HTML/CSS/JS Template
 	</title>
 	<script>
@@ -22,6 +20,8 @@
 	<!-- browser settings -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1" />
+
+	<link href="<!--#echo var="SITE_PATH" -->assets/css/reset.css" media="screen" rel="stylesheet" />
 
 	<!--[if lt IE 9]>
 		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
