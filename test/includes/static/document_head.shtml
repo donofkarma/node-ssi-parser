@@ -9,7 +9,7 @@
 	<meta charset="utf-8" />
 
 	<title>
-		<!--#echo var="pageName"-->
+		<!--#echo var="pageName" -->
 		HTML/CSS/JS Template
 	</title>
 	<script>
