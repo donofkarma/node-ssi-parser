@@ -1,4 +1,5 @@
 <!--#set var="SITE_PATH" value="/" -->
+<!--#set var="pageName" value="Default Page Title - " -->
 
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html lang="en-gb" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -10,7 +11,7 @@
 
 	<title>
 		<!--#echo var="pageName" -->
-		HTML/CSS/JS Template
+		Node SSI Parser
 	</title>
 	<script>
 		// set js enabled class - replaces 'no-js' with 'js'

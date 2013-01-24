@@ -1,4 +1,4 @@
-<!--#set var="pageName" value="Index Page - " -->
+<!--#set var="pageName" value="Content Page - " -->
 <!--#include virtual="includes/static/document_head.shtml" -->
 
 	<div id="pageWrapper">
