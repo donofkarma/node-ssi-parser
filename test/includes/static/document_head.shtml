@@ -10,7 +10,9 @@
 	<meta charset="utf-8" />
 
 	<title>
-		<!--#echo var="pageName" -->
+		<!--#if expr="${pageName} != ''" -->
+			<!--#echo var="pageName"-->
+		<!--#endif -->
 		Node SSI Parser
 	</title>
 	<script>
