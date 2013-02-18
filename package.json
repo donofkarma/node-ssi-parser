@@ -1,7 +1,7 @@
 {
   "name": "node-ssi-parser",
   "description": "SSI parser for node.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Jasal Vadgama - http://blacklabelcreative.com/",
   "repository": {
     "type": "git",
